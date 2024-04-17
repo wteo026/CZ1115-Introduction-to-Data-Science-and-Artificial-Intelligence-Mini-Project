@@ -10,7 +10,7 @@ This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial I
 ### Contribution
 
 ### Model Used
-1. Decision Tree
+1. Decision Tree README.md
 2. RandomForest Regression 
 
 ### Conclusion
