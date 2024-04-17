@@ -2,7 +2,16 @@
 
 ### About
 This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on Loan status prediction. For detailed walkthrough, please view the source code in order from:
+
 ### Contribution
+
+### Model Used
+1. Decision Tree
+2. RandomForest Regression 
+
+### Conclusion
+1. Credit_History is the most significant variable affecting Loan_Status
+2. Our model can successfully predict Loan_Status with an accuracy of 92% 
 
 ### References
 1. https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction
