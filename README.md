@@ -22,3 +22,5 @@ This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial I
 2. https://www.geeksforgeeks.org/random-forest-regression-in-python/
 3. https://scikit-learn.org/stable/modules/tree.html
 4. https://machinelearningmastery.com/how-to-connect-model-input-data-with-predictions-for-machine-learning/
+5. https://datatab.net/tutorial/point-biserial-correlation
+6. https://www.statology.org/interpret-cramers-v/
