@@ -1,7 +1,7 @@
 # Loan Status Prediction
 
 ### About
-This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on Loan Status prediction from kaggle's [Loan Status Prediction](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction).
+This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on Loan Status from Kaggle's [Loan Status Prediction](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction).
 
 For detailed walkthrough, please view the source code in order from:
 1. [Data Extraction](https://github.com/wteo026/CZ1115-Introduction-to-Data-Science-and-Artificial-Intelligence-Mini-Project/blob/main/Data-Extraction.ipynb)
@@ -9,9 +9,9 @@ For detailed walkthrough, please view the source code in order from:
 3. 
 
 ### Problem Definition
-1. Identify the most important variable that determines loan status
+1. Identify the most significant variable that affects loan status
 2. Create a model that will help to assess whether a loan will be approve
-3. Create a model that will suggest a loan amount to maximize the likelihood of getting approval
+3. Create a model that can suggest a loan amount to increase the likelihood of getting approval
 
 ### Contribution
 1. @wteo026 - EDA, Decision Tree and RandomForest Regression for loan status prediction
@@ -19,15 +19,19 @@ For detailed walkthrough, please view the source code in order from:
 ### Model Used
 1. Decision Tree 
 2. RandomForest Regression
-3. As most of the variables are categorical variables, we also make use of Cramers V Value and Point Biserial Correlation Coefficient to determine the relationship between the predictors and response variable. 
+3. Cramers V Value
+4. Point Biserial Correlation Coefficient
 
 ### Conclusion
-1. Most variable does not affect Loan Status
+1. Most variable in the dataset does not affect Loan Status
 2. Credit_History is the most significant variable affecting Loan Status
-3. Our model is able to predict Loan Status with an accuracy of 92%
+3. Property Area might be a variable affecting Loan Status
+4. Most of our variables are catergorial variables (Y,N,0,1)
+5. Resampling imbalanced data improved model performance especially on the minority class
+6. Our model is able to predict Loan Status with an accuracy of 92%
 
 ### What did we learnt from this project?
-1. Changing data to allow u
+1. Resample
 2. Cramer V
 3. Point Biserial correlation
 
