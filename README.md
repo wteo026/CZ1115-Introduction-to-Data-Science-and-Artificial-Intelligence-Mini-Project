@@ -27,7 +27,9 @@ For detailed walkthrough, please view the source code in order from:
 3. Our model is able to predict Loan Status with an accuracy of 92%
 
 ### What did we learnt from this project?
-1. Changing data to allow
+1. Changing data to allow u
+2. Cramer V
+3. Point Biserial correlation
 
 ### References
 1. https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction
