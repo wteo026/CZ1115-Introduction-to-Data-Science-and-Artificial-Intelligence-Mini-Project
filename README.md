@@ -5,9 +5,11 @@ This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial I
 
 ### Problem Definition
 1. Identify the most important variable that determines loan status
-2. Create a model that will help to assess whether a loan will be approve. 
+2. Create a model that will help to assess whether a loan will be approve
+3. Create a model that will suggest a loan amount to maximize the likelihood of getting approval
 
 ### Contribution
+1. @wteo026 - EDA, Decision Tree and RandomForest Regression for loan status prediction
 
 ### Model Used
 1. Decision Tree 
