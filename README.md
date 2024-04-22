@@ -1,22 +1,12 @@
 # Loan Status Prediction
 
 ### About
-This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on Loan Status prediction. Our dataset is from Kaggle and it contains information of applicants who are applying for housing loan. The information includes:
-1. Loan ID
-2. Gender
-3. Marital Status
-4. No. of Dependents
-5. Education Level
-6. Self Employed
-7. Applicant Income
-8. CoApplicant Income
-9. Loan Amount
-10. Loan Amount Term
-11. Credit History
-12. Property Area
-13. Loan Status
+This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on Loan Status prediction [Loan Status Prediction](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction).
 
 For detailed walkthrough, please view the source code in order from:
+1. Data Extraction
+2. Data Visualization
+3. 
 
 ### Problem Definition
 1. Identify the most important variable that determines loan status
@@ -32,11 +22,12 @@ For detailed walkthrough, please view the source code in order from:
 3. As most of the variables are categorical variables, we also make use of Cramers V Value and Point Biserial Correlation Coefficient to determine the relationship between the predictors and response variable. 
 
 ### Conclusion
-1. Credit_History is the most significant variable affecting Loan_Status
-2. Our model is able to predict Loan_Status with an accuracy of 92%
+1. Most variable does not affect Loan Status
+2. Credit_History is the most significant variable affecting Loan Status
+3. Our model is able to predict Loan Status with an accuracy of 92%
 
 ### What did we learnt from this project?
-
+1. Changing data to allow
 
 ### References
 1. https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction
