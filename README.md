@@ -33,7 +33,10 @@ For detailed walkthrough, please view the source code in order from:
 
 ### Conclusion
 1. Credit_History is the most significant variable affecting Loan_Status
-2. Our model is able to predict Loan_Status with an accuracy of 92% 
+2. Our model is able to predict Loan_Status with an accuracy of 92%
+
+### What did we learnt from this project?
+
 
 ### References
 1. https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction
