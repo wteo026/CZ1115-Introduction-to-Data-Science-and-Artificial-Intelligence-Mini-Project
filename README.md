@@ -13,7 +13,7 @@ For detailed walkthrough, please view the source code in order from:
 2. Create a model that will help to assess whether a loan will be approve
 3. Create a model that can suggest a loan amount to increase the likelihood of getting approval
 
-### Contributionwill
+### Contribution
 1. @wteo026 - EDA, Decision Tree and RandomForest Regression for loan status prediction
 
 ### Model Used
