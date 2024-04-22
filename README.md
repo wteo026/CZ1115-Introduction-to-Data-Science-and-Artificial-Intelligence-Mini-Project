@@ -29,7 +29,7 @@ For detailed walkthrough, please view the source code in order from:
 ### Model Used
 1. Decision Tree 
 2. RandomForest Regression
-3. As most of the variables are categorical variables, we also make use of ### Cramers V Value and ### Point Biserial Correlation Coefficient to determine the relationship between the predictors and response variable. 
+3. As most of the variables are categorical variables, we also make use of Cramers V Value and Point Biserial Correlation Coefficient to determine the relationship between the predictors and response variable. 
 
 ### Conclusion
 1. Credit_History is the most significant variable affecting Loan_Status
