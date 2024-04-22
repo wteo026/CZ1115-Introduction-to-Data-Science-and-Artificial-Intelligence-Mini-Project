@@ -6,7 +6,7 @@ This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial I
 For detailed walkthrough, please view the source code in order from:
 1. [Data Extraction](https://github.com/wteo026/CZ1115-Introduction-to-Data-Science-and-Artificial-Intelligence-Mini-Project/blob/main/Data-Extraction.ipynb)
 2. [EDA](https://github.com/wteo026/CZ1115-Introduction-to-Data-Science-and-Artificial-Intelligence-Mini-Project/blob/main/EDA.ipynb)
-3. [Prediction Model](https://github.com/wteo026/CZ1115-Introduction-to-Data-Science-and-Artificial-Intelligence-Mini-Project/blob/main/Prediction%20Model%20for%20Loan%20Status.ipynb)
+3. [Prediction Model]()
 
 ### Problem Definition
 1. Identify the most significant variable that affects loan status
@@ -15,7 +15,7 @@ For detailed walkthrough, please view the source code in order from:
 
 ### Contribution
 1. @wteo026 - EDA, Decision Tree and RandomForest Regression for loan status prediction
-2. @pigcansiwm - Decision Tree
+2. @pigcansiwm - Decision Tree for loan status prediction
 3. 
 
 ### Model Used
@@ -25,16 +25,16 @@ For detailed walkthrough, please view the source code in order from:
 4. Point Biserial Correlation Coefficient
 
 ### Conclusion
-1. Most variables in the dataset does not affect Loan Status
+1. Most variables in the dataset have little to no impact on Loan Status
 2. Most of our variables are catergorial variables (Y,N,0,1)
 3. Credit_History is the most significant variable affecting Loan Status
 4. Property Area might be a variable affecting Loan Status
-5. Our model is able to predict Loan Status with an accuracy of 92%
+5. Our model is able to predict Loan Status with an accuracy of 93%
 
 ### What did we learnt from this project?
 1. Handling imbalanced datasets using resampling methods
 2. Random Forest Regression
-3. Cramer V
+3. Cramers V
 4. Point Biserial correlation
 
 ### References
