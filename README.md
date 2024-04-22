@@ -5,7 +5,7 @@ This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial I
 
 For detailed walkthrough, please view the source code in order from:
 1. [Data Extraction](https://github.com/wteo026/CZ1115-Introduction-to-Data-Science-and-Artificial-Intelligence-Mini-Project/blob/main/Data-Extraction.ipynb)
-2. Data Visualization
+2. [EDA](https://github.com/wteo026/CZ1115-Introduction-to-Data-Science-and-Artificial-Intelligence-Mini-Project/blob/main/EDA.ipynb)
 3. 
 
 ### Problem Definition
@@ -13,13 +13,13 @@ For detailed walkthrough, please view the source code in order from:
 2. Create a model that will help to assess whether a loan will be approve
 3. Create a model that can suggest a loan amount to increase the likelihood of getting approval
 
-### Contribution
+### Contributionwill
 1. @wteo026 - EDA, Decision Tree and RandomForest Regression for loan status prediction
 
 ### Model Used
 1. Decision Tree 
 2. RandomForest Regression
-3. Cramers V Value
+3. Cramers V
 4. Point Biserial Correlation Coefficient
 
 ### Conclusion
@@ -27,13 +27,13 @@ For detailed walkthrough, please view the source code in order from:
 2. Credit_History is the most significant variable affecting Loan Status
 3. Property Area might be a variable affecting Loan Status
 4. Most of our variables are catergorial variables (Y,N,0,1)
-5. Resampling imbalanced data improved model performance especially on the minority class
-6. Our model is able to predict Loan Status with an accuracy of 92%
+5. Our model is able to predict Loan Status with an accuracy of 92%
 
 ### What did we learnt from this project?
-1. Resample
-2. Cramer V
-3. Point Biserial correlation
+1. Handling imbalanced datasets using resampling methods
+2. Random Forest Regression
+3. Cramer V
+4. Point Biserial correlation
 
 ### References
 1. https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction
