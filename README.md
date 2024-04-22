@@ -1,7 +1,7 @@
 # Loan Status Prediction
 
 ### About
-This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on Loan status prediction. Our dataset is from Kaggle and it contains information of applicants who are applying for housing loan. The information includes:
+This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on Loan Status prediction. Our dataset is from Kaggle and it contains information of applicants who are applying for housing loan. The information includes:
 1. Loan ID
 2. Gender
 3. Marital Status
