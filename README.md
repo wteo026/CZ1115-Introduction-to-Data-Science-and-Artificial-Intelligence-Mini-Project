@@ -15,6 +15,8 @@ For detailed walkthrough, please view the source code in order from:
 
 ### Contribution
 1. @wteo026 - EDA, Decision Tree and RandomForest Regression for loan status prediction
+2. @pigcansiwm - Decision Tree
+3. 
 
 ### Model Used
 1. Decision Tree 
