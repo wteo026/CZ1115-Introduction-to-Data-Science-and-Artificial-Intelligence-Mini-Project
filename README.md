@@ -25,10 +25,10 @@ For detailed walkthrough, please view the source code in order from:
 4. Point Biserial Correlation Coefficient
 
 ### Conclusion
-1. Most variable in the dataset does not affect Loan Status
-2. Credit_History is the most significant variable affecting Loan Status
-3. Property Area might be a variable affecting Loan Status
-4. Most of our variables are catergorial variables (Y,N,0,1)
+1. Most variables in the dataset does not affect Loan Status
+2. Most of our variables are catergorial variables (Y,N,0,1)
+3. Credit_History is the most significant variable affecting Loan Status
+4. Property Area might be a variable affecting Loan Status
 5. Our model is able to predict Loan Status with an accuracy of 92%
 
 ### What did we learnt from this project?
