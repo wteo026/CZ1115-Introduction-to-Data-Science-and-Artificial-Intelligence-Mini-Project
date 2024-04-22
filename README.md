@@ -4,7 +4,7 @@
 This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on Loan Status prediction from kaggle's [Loan Status Prediction](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction).
 
 For detailed walkthrough, please view the source code in order from:
-1. Data Extraction
+1. [Data Extraction](https://github.com/wteo026/CZ1115-Introduction-to-Data-Science-and-Artificial-Intelligence-Mini-Project/blob/main/Data-Extraction.ipynb)
 2. Data Visualization
 3. 
 
