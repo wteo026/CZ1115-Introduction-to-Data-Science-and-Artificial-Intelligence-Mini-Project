@@ -6,7 +6,7 @@ This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial I
 For detailed walkthrough, please view the source code in order from:
 1. [Data Extraction](https://github.com/wteo026/CZ1115-Introduction-to-Data-Science-and-Artificial-Intelligence-Mini-Project/blob/main/Data-Extraction.ipynb)
 2. [EDA](https://github.com/wteo026/CZ1115-Introduction-to-Data-Science-and-Artificial-Intelligence-Mini-Project/blob/main/EDA.ipynb)
-3. [Prediction Model]()
+3. [Prediction Model](https://github.com/wteo026/CZ1115-Introduction-to-Data-Science-and-Artificial-Intelligence-Mini-Project/blob/main/Prediction%20Model%20for%20Loan%20Status.ipynb)
 
 ### Problem Definition
 1. Identify the most significant variable that affects loan status
