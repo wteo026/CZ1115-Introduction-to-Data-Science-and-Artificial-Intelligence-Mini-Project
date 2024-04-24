@@ -20,7 +20,7 @@ For detailed walkthrough, please view the source code in order from:
 3. @C230071 - Random Forest Regression for loan amount prediction
 
 ### Model Used
-1. Decision Tree & RandomForest classifier
+1. Decision Tree & RandomForest Classifier
 2. RandomForest Regression
 3. Cramers V
 4. Point Biserial Correlation Coefficient
